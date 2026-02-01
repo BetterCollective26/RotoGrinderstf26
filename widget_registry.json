@@ -20,5 +20,16 @@
     "created_at_utc": "2026-02-01 14:58:11 UTC",
     "bundle_path": "bundles/usa_trans_revenue.html.json",
     "has_bundle": true
+  },
+  "test_table.html": {
+    "brand": "RotoGrinders",
+    "table_title": "Transports",
+    "file": "test_table.html",
+    "pages_url": "https://bettercollective26.github.io/RotoGrinderstf26/test_table.html",
+    "github_repo_url": "https://github.com/bettercollective26/RotoGrinderstf26",
+    "created_by": "gauthambc",
+    "created_at_utc": "2026-02-01 20:39:52 UTC",
+    "bundle_path": "bundles/test_table.html.json",
+    "has_bundle": true
   }
 }
