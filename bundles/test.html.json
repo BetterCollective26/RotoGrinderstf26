@@ -3,7 +3,7 @@
   "widget_file_name": "test.html",
   "brand": "RotoGrinders",
   "created_by": "gauthambc",
-  "created_at_utc": "2026-02-02 00:35:01 UTC",
+  "created_at_utc": "2026-02-02 00:36:48 UTC",
   "table_name_words": "test",
   "widget_title": "Table 1",
   "widget_subtitle": "Subheading",
@@ -26,7 +26,9 @@
     "show_pager": true,
     "show_embed": true,
     "show_page_numbers": true,
-    "bar_columns": [],
+    "bar_columns": [
+      "FAN STRESS INDEX (OUT OF 100)"
+    ],
     "bar_max_overrides": {},
     "bar_fixed_w": 200,
     "heat_columns": [],
@@ -38,7 +40,9 @@
   "col_format_rules": {},
   "csv": "RANK,FAN BASE,FAN STRESS INDEX (OUT OF 100)\n1,Dallas Cowboys,62.75\n2,Indianapolis Colts,61.14\n3,New York Giants,60.99\n4,Arizona Cardinals,57.68\n5,Atlanta Falcons,57.61\n6,Chicago Bears,56.41\n7,Cincinnati Bengals,53.41\n8,Washington Commanders,53.04\n9,New York Jets,52.55\n10,San Francisco 49ers,52.26\n11,Jacksonville Jaguars,50.51\n12,Green Bay Packers,49.3\n13,Seattle Seahawks,49.26\n14,Pittsburgh Steelers,48.91\n15,Cleveland Browns,46.73\n16,Las Vegas Raiders,45.9\n17,Carolina Panthers,45.01\n18,Tampa Bay Buccaneers,44.02\n19,Los Angeles Chargers,42.15\n20,Miami Dolphins,41.63\n21,Denver Broncos,40.7\n22,Minnesota Vikings,40.52\n23,New Orleans Saints,37.22\n24,Houston Texans,36.23\n25,Philadelphia Eagles,36.06\n26,Baltimore Ravens,33.82\n27,Kansas City Chiefs,33.01\n28,Buffalo Bills,32.09\n29,Tennessee Titans,32.0\n30,Detroit Lions,31.92\n31,Los Angeles Rams,30.19\n32,New England Patriots,28.21\n",
   "hidden_cols": [],
-  "bar_columns": [],
+  "bar_columns": [
+    "FAN STRESS INDEX (OUT OF 100)"
+  ],
   "bar_max_overrides": {},
   "heat_columns": [],
   "heat_overrides": {}
