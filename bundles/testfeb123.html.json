@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "widget_file_name": "testfeb123.html",
+  "brand": "RotoGrinders",
+  "created_by": "gauthambc",
+  "created_at_utc": "2026-02-21 14:19:31 UTC",
+  "table_name_words": "testfeb123",
+  "widget_title": "Table 123445",
+  "widget_subtitle": "Subheading",
+  "config": {
+    "brand": "RotoGrinders",
+    "title": "Table 123445",
+    "subtitle": "Subheading",
+    "striped": true,
+    "show_header": true,
+    "center_titles": false,
+    "branded_title_color": true,
+    "show_footer": true,
+    "footer_logo_align": "Center",
+    "footer_logo_h": 36,
+    "show_footer_notes": false,
+    "footer_notes": "",
+    "show_heat_scale": false,
+    "cell_align": "Center",
+    "show_search": true,
+    "show_pager": true,
+    "show_embed": true,
+    "show_page_numbers": true,
+    "bar_columns": [
+      "Top sport1 - participants"
+    ],
+    "bar_max_overrides": {},
+    "bar_fixed_w": 200,
+    "heat_columns": [],
+    "heat_overrides": {},
+    "heat_strength": 0.55,
+    "heatmap_style": "Branded heatmap",
+    "header_style": "Keep original"
+  },
+  "col_format_rules": {},
+  "csv": "State,Top sport 1,Top sport1 - participants,Top sport1 - Schools,Top sport 2,Top sport2 - participants,Top sport2 - Schools,Top sport 3,Top sport2 - participants (for sport 3),Top sport2 - Schools (for sport 3)\nAlabama,Volleyball,17191.0,411.0,Softball Fast Pitch,11474.0,400.0,Track and Field Outdoor,10207.0,383.0\nAlaska,Volleyball,1508.0,71.0,Basketball,1425.0,160.0,Track and Field Outdoor,967.0,49.0\nArizona,Volleyball,9175.0,278.0,Track and Field Outdoor,7514.0,260.0,Soccer,7112.0,211.0\nArkansas,Basketball,4957.0,298.0,Track and Field Outdoor,4913.0,272.0,Softball Fast Pitch,4496.0,251.0\nCalifornia,Soccer,47918.0,1356.0,Volleyball,46716.0,1479.0,Track and Field Outdoor,45652.0,1284.0\nColorado,Volleyball,10870.0,349.0,Soccer,8054.0,235.0,Track and Field Outdoor,8036.0,319.0\nConnecticut,Track and Field Outdoor,6202.0,175.0,Volleyball,4592.0,170.0,Soccer,4576.0,159.0\nDelaware,Volleyball,1600.0,54.0,Soccer,1590.0,53.0,Track and Field Outdoor,1317.0,52.0\nDistrict of Columbia,Volleyball,773.0,4.0,Track and Field Outdoor,669.0,40.0,Soccer,565.0,23.0\nFlorida,Volleyball,19472.0,723.0,Soccer,16999.0,643.0,Track and Field Outdoor,16885.0,698.0\nGeorgia,Track and Field Outdoor,12860.0,430.0,Soccer,10325.0,393.0,Volleyball,9736.0,376.0\nHawaii,Volleyball,2100.0,75.0,Track and Field Outdoor,1719.0,71.0,Soccer,1480.0,62.0\nIdaho,Volleyball,4154.0,162.0,Track and Field Outdoor,4101.0,150.0,Basketball,3027.0,155.0\nIllinois,Volleyball,22291.0,792.0,Track and Field Outdoor,20268.0,769.0,Soccer,15199.0,521.0\nIndiana,Track and Field Outdoor,11664.0,397.0,Volleyball,9742.0,401.0,Soccer,7577.0,282.0\nIowa,Volleyball,11387.0,354.0,Track and Field Outdoor,9574.0,351.0,Softball Fast Pitch,7244.0,332.0\nKansas,Volleyball,8673.0,339.0,Track and Field Outdoor,8285.0,345.0,Basketball,5788.0,337.0\nKentucky,Volleyball,7302.0,279.0,Soccer,6061.0,212.0,Track and Field Outdoor,5815.0,269.0\nLouisiana,Track and Field Outdoor,8097.0,386.0,Softball Fast Pitch,6087.0,366.0,Volleyball,5845.0,269.0\nMaine,Soccer,3461.0,133.0,Basketball,2672.0,141.0,Track and Field Outdoor,2587.0,110.0\nMaryland,Track and Field Outdoor,6324.0,195.0,Volleyball,5571.0,195.0,Soccer,5422.0,180.0\nMassachusetts,Track and Field Outdoor,13011.0,332.0,Soccer,11435.0,355.0,Volleyball,10843.0,325.0\nMichigan,Volleyball,19679.0,731.0,Track and Field Outdoor,18108.0,677.0,Basketball,13068.0,689.0\nMinnesota,Track and Field Outdoor,16155.0,497.0,Volleyball,15506.0,467.0,Softball Fast Pitch,9806.0,435.0\nMississippi,Volleyball,8696.0,226.0,Basketball,8481.0,231.0,Softball Fast Pitch,6412.0,225.0\nMissouri,Track and Field Outdoor,13734.0,550.0,Volleyball,11043.0,473.0,Softball Fast Pitch,8468.0,500.0\nMontana,Volleyball,3478.0,164.0,Track and Field Outdoor,2875.0,162.0,Basketball,2655.0,164.0\nNebraska,Track and Field Outdoor,7295.0,304.0,Volleyball,6799.0,304.0,Basketball,4878.0,305.0\nNevada,Volleyball,3303.0,118.0,Track and Field Outdoor,2884.0,107.0,Soccer,2368.0,74.0\nNew Hampshire,Soccer,2305.0,87.0,Track and Field Outdoor,1974.0,78.0,Volleyball,1857.0,62.0\nNew Jersey,Track and Field Outdoor,17290.0,393.0,Soccer,13109.0,379.0,Volleyball,12212.0,335.0\nNew Mexico,Volleyball,4059.0,153.0,Track and Field Outdoor,3509.0,148.0,Basketball,3335.0,154.0\nNew York,Soccer,17614.0,654.0,Track and Field Outdoor,16821.0,641.0,Volleyball,14591.0,636.0\nNorth Carolina,Track and Field Outdoor,11609.0,415.0,Volleyball,10499.0,436.0,Soccer,10376.0,399.0\nNorth Dakota,Volleyball,3472.0,158.0,Track and Field Outdoor,2727.0,150.0,Basketball,1992.0,160.0\nOhio,Competitive Spirit,24397.0,660.0,Track and Field Outdoor,23812.0,797.0,Volleyball,20237.0,801.0\nOklahoma,Track and Field Outdoor,6898.0,398.0,Softball Fast Pitch,6808.0,407.0,Basketball,6625.0,471.0\nOregon,Track and Field Outdoor,8149.0,274.0,Volleyball,7947.0,288.0,Soccer,5768.0,191.0\nPennsylvania,Track and Field Outdoor,24520.0,613.0,Softball Fast Pitch,19968.0,624.0,Soccer,18550.0,530.0\nRhode Island,Track and Field Outdoor,1800.0,50.0,Volleyball,1756.0,48.0,Soccer,1499.0,52.0\nSouth Carolina,Track and Field Outdoor,8094.0,211.0,Volleyball,5784.0,222.0,Soccer,5516.0,173.0\nSouth Dakota,Volleyball,3727.0,174.0,Track and Field Outdoor,3307.0,159.0,Basketball,2487.0,154.0\nTennessee,Volleyball,7903.0,375.0,Soccer,7300.0,299.0,Track and Field Outdoor,6790.0,328.0\nTexas,Track and Field Outdoor,56698.0,1383.0,Volleyball,53013.0,1222.0,Competitive Spirit,52318.0,1489.0\nUtah,Track and Field Outdoor,5695.0,132.0,Soccer,3955.0,110.0,Volleyball,3916.0,138.0\nVermont,Soccer,792.0,36.0,Basketball,563.0,30.0,Softball Fast Pitch,461.0,25.0\nVirginia,Track and Field Outdoor,9529.0,313.0,Soccer,8922.0,290.0,Volleyball,8545.0,312.0\nWashington,Track and Field Outdoor,12897.0,362.0,Volleyball,12224.0,384.0,Soccer,10186.0,300.0\nWest Virginia,Track and Field Outdoor,2634.0,110.0,Volleyball,2521.0,117.0,Softball Fast Pitch,2108.0,110.0\nWisconsin,Volleyball,16150.0,482.0,Track and Field Outdoor,13061.0,459.0,Basketball,9254.0,481.0\nWyoming,Volleyball,1789.0,68.0,Track and Field Outdoor,1619.0,71.0,Basketball,1384.0,70.0\n",
+  "hidden_cols": [],
+  "bar_columns": [
+    "Top sport1 - participants"
+  ],
+  "bar_max_overrides": {},
+  "heat_columns": [],
+  "heat_overrides": {}
+}
